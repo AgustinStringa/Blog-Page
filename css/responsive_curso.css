@@ -1,0 +1,14 @@
+@media (max-width: 1250px) {
+    .contenedor {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .contenedor-card {
+        width: 16%!important;
+        margin: 1.45%;
+        height: 300px;
+    }
+    footer>div.contenedor>* {
+        width: 29%!important;
+    }
+}
